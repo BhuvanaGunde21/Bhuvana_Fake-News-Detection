@@ -1,5 +1,5 @@
-# Bhuvana-Projects.
-My projeect : "FAKE NEWS DETECTION" USING BERT with CNN.
+
+My project : "FAKE NEWS DETECTION" USING BERT with CNN.
 
 In this project, we propose a BERT-based (Bidirectional Encoder Representations from Transformers) deep learning approach by combining different parallel blocks of the CNN layer and deep Convolutional Neural Network (CNN) having different kernel sizes and filters with the BERT. This work proposes a hybrid deep learning model that combines convolutional Neural Network and BERT for fake news classification. The model was successfully validated on LIARPLUS.
  
