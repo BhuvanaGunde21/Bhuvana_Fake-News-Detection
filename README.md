@@ -1,2 +1,3 @@
-# Bhuvana-Projects
-Started a journey as frontend developer,As i love to design websites .
+# Bhuvana-Projects.
+My projeect : "FAKE NEWS DETECTION" USING BERT with CNN
+
